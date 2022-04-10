@@ -1,0 +1,8 @@
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\bin\Debug\MarsRoverConsole.exe.config
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\bin\Debug\MarsRoverConsole.exe
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\bin\Debug\MarsRoverConsole.pdb
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\bin\Debug\MarsRoverCase.dll
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\bin\Debug\MarsRoverCase.pdb
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\obj\Debug\MarsRoverConsole.csprojResolveAssemblyReference.cache
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\obj\Debug\MarsRoverConsole.exe
+C:\Users\FURKAN\Documents\Visual Studio 2015\Projects\MarsRoverCase\MarsRoverConsole\obj\Debug\MarsRoverConsole.pdb

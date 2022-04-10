@@ -1,0 +1,5 @@
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverCase\bin\Debug\MarsRoverCase.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverCase\bin\Debug\MarsRoverCase.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.pdb

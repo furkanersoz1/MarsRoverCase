@@ -1,0 +1,8 @@
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\bin\Debug\MarsRoverTest.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\bin\Debug\MarsRoverTest.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\bin\Debug\MarsRoverCase.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\bin\Debug\MarsRoverCase.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\obj\Debug\MarsRoverTest.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\obj\Debug\MarsRoverTest.dll
+c:\users\furkan\documents\visual studio 2015\Projects\MarsRoverCase\MarsRoverTest\obj\Debug\MarsRoverTest.pdb
